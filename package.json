@@ -9,8 +9,7 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/Srahul2244/renderMock/issues"
-  },
-  "homepage": "https://github.com/Srahul2244/renderMock#readme"
+  "dependencies": {
+    "json-server": "^0.17.2"
+  }
 }
