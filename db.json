@@ -8,5 +8,57 @@
             "color": "Pink"
         }
     ],
-    "data": []
+    "users": [],
+    "hotels": [
+        {
+            "category": "Family",
+            "image_url": "https://www.acaciahotelsmanila.com/wp-content/uploads/2020/09/room-deluxe_70df34c103b85ce7b2b5ff918ab8cf72.jpg",
+            "type_of_room": "AC",
+            "bed_type": "Double",
+            "no_of_persons": "2",
+            "capacity": "4",
+            "cost": "4500",
+            "booked": false
+        },
+        {
+            "category": "Deluxe",
+            "image_url": "https://www.acaciahotelsmanila.com/wp-content/uploads/2020/09/room-deluxe_70df34c103b85ce7b2b5ff918ab8cf72.jpg",
+            "type_of_room": "AC",
+            "bed_type": "Double",
+            "no_of_persons": "2",
+            "capacity": "3",
+            "cost": "4400",
+            "booked": false
+        },
+        {
+            "category": "Suite",
+            "image_url": "https://www.acaciahotelsmanila.com/wp-content/uploads/2020/09/room-deluxe_70df34c103b85ce7b2b5ff918ab8cf72.jpg",
+            "type_of_room": "AC",
+            "bed_type": "Double",
+            "no_of_persons": "2",
+            "capacity": "7",
+            "cost": "5000",
+            "booked": false
+        },
+        {
+            "category": "Family",
+            "image_url": "https://www.acaciahotelsmanila.com/wp-content/uploads/2020/09/room-deluxe_70df34c103b85ce7b2b5ff918ab8cf72.jpg",
+            "type_of_room": "AC",
+            "bed_type": "Double",
+            "no_of_persons": "5",
+            "capacity": "7",
+            "cost": "7000",
+            "booked": false
+        },
+        {
+            "category": "Suite",
+            "image_url": "https://www.acaciahotelsmanila.com/wp-content/uploads/2020/09/room-deluxe_70df34c103b85ce7b2b5ff918ab8cf72.jpg",
+            "type_of_room": "AC",
+            "bed_type": "Double",
+            "no_of_persons": "6",
+            "capacity": "6",
+            "cost": "5000",
+            "booked": false
+        }
+    ]
 }
